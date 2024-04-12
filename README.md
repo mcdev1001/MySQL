@@ -8,6 +8,9 @@ system. This means a great deal to the community and taxpayers are demanding a s
 system. A new database must be designed for the libraries to keep track of all the information coming in and
 out including employees, library members, media, equipment etc. Each branch will be transformative for its
 community
+
+
+
 Why Expanding the Library System Matters:
 The library is a community hub offering resources beyond reading materials. It serves as a place for learning,
 social interaction, and personal enrichment. Libraries contribute to a healthy community ecosystem.
@@ -18,6 +21,9 @@ communities. The library system expansion will also foster inclusivity. Librarie
 spaces where individuals from diverse backgrounds can gather. This will promote a sense of welcome,
 diversity and belonging. By rebuilding library infrastructure, the county will meet the needs of its citizens
 through such social equity and engagement.
+
+
+
 Library Branch Management:
 Each library branch is a hub of community engagement. The database must help keep essential details of
 branches, including name, address, city, state, postal code, email addresses, and phone numbers.
@@ -26,18 +32,27 @@ The backbone of the library system are the people who work there, with roles ran
 technicians. The database will include employee data, including employee ID, job title, name, Social Security
 Number (SSN), and salary information. This will facilitate efficient HR management and streamline payroll
 processes.
+
+
+
 Certification Tracking:
 Library staff typically pursue certifications relevant to their roles. The system will record certification dates
 and titles. This ensures compliance with industry standards and staff development.
 Membership Management:
 Membership provides access to an array of resources. The database will include member IDs, contact details,
 names, and SSNs. This enables easy membership administration and personalized engagement.
+
+
+
 Media:
 A member may access many different varieties of media. Member access is kept track of by date/time of
 access, due date, and date/time end of access. This way we can keep track of all activity of media used by
 members. Media falls into two types: rental or non rental media. Each media item may have attributes such as:
 Item ID, creation date, genre(s), title, studio, publisher, author(s), and artist(s). This ensures exact tracking of
 circulation activities and resource allocation.
+
+
+
 Equipment and Supplies Tracking:
 Beyond media, the library has service equipment. Service equipment the library may own could be computers,
 printers or scanners. Each piece of equipment has a serial number. In addition the library owns various
@@ -45,15 +60,24 @@ emergency equipment items. These items must be kept track of by item ID, item na
 item stock date, and item expiration date. The library also owns supplies such as printer paper, pens, pencils
 etc. which are kept track of by item ID, stock date and quantity. This helps to facilitate routine restocking and
 optimizing resources.
+
+
+
 Event Organization:
 A library is an enriching place which hosts many special events such as story time for kids. The database will
 facilitate management of events. These events may be categorized as kids, teen or adult events. Each event is
 organized by date and event title and will include a description of the event. This will support appropriate
 event promotion and engagement of members.
+
+
+
 Our Vision:
 A new database system will bring to the community a modern, vibrant library ecosystem. By addressing the
 needs of library management, employees, membership, media, supplies inventory, and event coordination, this
 system will help to manage an enriching community hub that benefits the county and its residents.
+
+
+
 Library Branch
 postal code
 state
