@@ -1,5 +1,7 @@
 Devon McDermott
 
+***Please see PDF file for Diagrams (ER and RD)
+
 CMSC 508
 Public Library Database
 Introduction:
